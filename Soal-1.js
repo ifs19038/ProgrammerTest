@@ -1,4 +1,4 @@
-function skipTree(n){
+function skipThree(n){
     let container = ""
     for(let i = 1; i <= n; i++){
         if(i % 3 === 0 && i % 4 === 0){
